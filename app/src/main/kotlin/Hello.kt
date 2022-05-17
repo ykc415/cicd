@@ -1,5 +1,0 @@
-class Hello {
-    fun world() {
-
-    }
-}
