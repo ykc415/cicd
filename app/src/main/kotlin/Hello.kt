@@ -1,2 +1,5 @@
 class Hello {
+    fun world() {
+
+    }
 }
